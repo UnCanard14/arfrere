@@ -14,6 +14,7 @@ public class testAnimation : MonoBehaviour
     }
 
     // Update is called once per frame
+    //petiteBoucle
     void Update()
     {
       if (Input.GetKeyDown(KeyCode.M))
